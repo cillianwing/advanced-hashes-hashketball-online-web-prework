@@ -257,6 +257,7 @@ end
      end
 
    end
+ end
 
    describe '#winning_team' do
 
