@@ -234,6 +234,10 @@ def player_with_longest_name
     team_info[:players].each do |name, stats|
       if long_name.length == 0 || name.size > long_name[0].size 
         long_name[0] = name
+      end
+    end
+  end
+  long_name[0]
 end
 
 
