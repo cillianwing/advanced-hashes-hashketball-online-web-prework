@@ -265,7 +265,7 @@ end
      end
 
    end
-=begin
+
    describe '#player_with_longest_name' do
 
      it 'returns Brendan Haywood' do
@@ -275,7 +275,7 @@ end
    end
 
  end
-
+=begin
  describe 'super bonus' do
 
    describe '#long_name_steals_a_ton?' do
