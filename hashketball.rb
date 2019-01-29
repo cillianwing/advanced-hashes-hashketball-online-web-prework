@@ -153,3 +153,12 @@ def team_names
   end
   team_array
 end
+
+def player_numbers
+  
+end
+  
+  
+  
+  
+  
