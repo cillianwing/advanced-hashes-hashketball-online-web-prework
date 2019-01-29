@@ -151,4 +151,5 @@ def team_names
   game_hash.each do |location, team_info|
     team_array << team_info[:team_name]
   end
+  team_array
 end
